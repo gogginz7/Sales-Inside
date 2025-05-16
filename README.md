@@ -72,7 +72,7 @@ project-folder/
 
 1. Clone this repository or download the ZIP.
 2. Open `atlic_sales.sql` in your SQL environment to clean and prepare the data.
-3. Open `Atlic_Sales_Insights.pbix` in Power BI Desktop.
+3. Open `insight of sales.pbix` in Power BI Desktop.
 4. Refresh the data and explore the interactive dashboard.
 
 ---
