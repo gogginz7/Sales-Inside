@@ -76,17 +76,4 @@ project-folder/
 4. Refresh the data and explore the interactive dashboard.
 
 ---
-
-## 📬 Contact
-
-For any questions or suggestions, feel free to reach out:
-
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-
----
-
-## 📄 License
-
-This project is for educational and demonstration purposes only.
+Main file to see the final outcome: insight of sales.pbix
